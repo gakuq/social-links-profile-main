@@ -27,11 +27,11 @@
 html{
     font-family: var(--ff-sans);
     font-weight: var(--fw-normal);
+    background-color: var(--clr-black);
 }
 
 body {
     margin: 0;
-    background-color: var(--clr-black);
 }
 
 h1, h2 {
